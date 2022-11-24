@@ -93,10 +93,11 @@
 
 .titulo {
   position: relative;
-  left: 20px;
-  top: 7px;
+  left: 3px;
+  top: 5px;
   color: #FFF2E7;
   font-size: 28px;
+  text-decoration: none
 }
 
 .secondary-color h1{
